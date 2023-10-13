@@ -1,0 +1,22 @@
+New Log File 
+Software Version 11.18
+UniVert Controller
+	Detected on COM6
+DMKCamera startLive (33)
+Serial port \\.\COM6
+	successfully reconfigured.
+
+CellScale Biomat. Testing
+BioTester 5000 Master Ctl
+SW# 75075 Rev 1.9
+Copyright 2013
+Software Version 11.18
+
+Initializing X LoadCell
+	10.0N, Ser.No. 601424
+Initializing Actuator
+Initializing DMKCamera
+System Ready!
+Fri Jul-21-2023 21:53:46.827
+
+FINISHED TEST

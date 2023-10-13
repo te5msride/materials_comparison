@@ -1,0 +1,16 @@
+SetName,Cycle,Time_S,Size_mm,Displacement_mm,Force_N
+Elongation till break,1-Stretch,2.82,49.225,0,-0.048
+Elongation till break,1-Stretch,3.02,49.666,0.441,0.057
+Elongation till break,1-Stretch,3.22,50.108,0.883,0.182
+Elongation till break,1-Stretch,3.42,50.549,1.324,0.297
+Elongation till break,1-Stretch,3.62,50.99,1.765,0.33
+Elongation till break,1-Stretch,3.82,51.431,2.206,-1.211
+Elongation till break,1-Stretch,4.02,51.872,2.647,-1.111
+Elongation till break,1-Stretch,4.22,52.313,3.088,-1.412
+Elongation till break,1-Stretch,4.42,52.754,3.529,-1.958
+Elongation till break,1-Stretch,4.62,53.195,3.97,-1.819
+Elongation till break,1-Stretch,4.82,53.637,4.412,-1.81
+Elongation till break,1-Stretch,5.02,54.077,4.852,-1.839
+Elongation till break,1-Stretch,5.22,54.519,5.294,-1.848
+Elongation till break,1-Stretch,5.42,54.96,5.735,-1.872
+Elongation till break,1-Stretch,5.62,55.401,6.176,-1.968

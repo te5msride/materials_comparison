@@ -1,0 +1,3 @@
+Set,SetName,Cycle,Phase,StartTime(s),DataTime(s),Repeat
+1,Elongation till break,1,Preload,0,0,1
+1,Elongation till break,1,Stretch,0,0.56,1
